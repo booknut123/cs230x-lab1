@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayingWithWords
+comment0.text=\n\ method\ writeLetterPerLine(String\ input)\ returns\ a\ String\ with\ each\ letter\ of\ input\ as\ a\ capital\ letter\ on\ a\ new\ line.\n\ method\ writeInReverse(String\ input)\ returns\ a\ String\ with\ a\ reverse\ of\ input.\ (ex\:\ Red\ becomes\ deR)\n\n\ @author\ Kailyn\ Lau\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=void\ writeLetterPerLine(java.lang.String)
+comment3.params=input
+comment3.target=void\ writeInReverse(java.lang.String)
+numComments=4

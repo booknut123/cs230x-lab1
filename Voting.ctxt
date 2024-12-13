@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Voting
+comment0.text=\n\ Kailyn\ Lau\ -\ determine\ whether\ a\ user\ is\ eligible\ to\ vote\n
+comment1.params=currentYear\ birthYear\ birthMonth
+comment1.target=boolean\ isEligibleToVote(int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

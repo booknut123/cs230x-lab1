@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UserNames
+comment0.text=\n\ Produces\ user\ name,\ based\ on\ first\ and\ last\ names,\ and\ a\ random\ integer\:\n\ A\ user\ name\ consists\ of\ the\ user's\ first\ name\ initial,\ followed\ by\n\ the\ first\ 5\ letters\ of\ their\ last\ name,\ followed\ by\ a\ random\ two\ digit\ integer\ in\ the\ range\ [10-99]\n\ It\ continues\ producing\ user\ names\ until\ the\ user\ chooses\ to\ stop\ the\ process.\n\n\ @author\ Kailyn\ Lau\n
+comment1.params=firstName\ lastName
+comment1.target=java.lang.String\ produceFirstPart(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ produceSecondPart()
+comment3.params=firstName\ lastName
+comment3.target=java.lang.String\ produceOneUserName(java.lang.String,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
